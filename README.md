@@ -1,23 +1,24 @@
-# playwise-ai-platform
-AI-driven sports performance engine using Computer Vision to extract certified metrics from smartphone videos for athletes and scouts.
+# 🏐 PlayWise AI: The Meritocratic Sport Engine
 
-# 🏐 PlayWise AI: Core Performance Engine
+**Improve Performance. Amplify Visibility. Transform Athletic Potential into Certified Market Value.**
+
+---
 
 ## 🎯 The Vision
-PlayWise AI is the first **decentralized scouting infrastructure**. We use Computer Vision to turn simple smartphone video into **Certified Athletic Data**, creating a meritocratic "LinkedIn for Sports".
+PlayWise AI is an AI-driven infrastructure designed to certify athletic performance using Computer Vision. We are replacing outdated, subjective scouting with a "LinkedIn for Sports" based on objective, verified data.
 
-## 🛠️ Technical Stack & Configuration
-We are building the MVP with the following stack:
-* **Engine:** Python 3.9+
-* **Vision:** OpenCV / MediaPipe (Pose Estimation)
-* **Data:** PostgreSQL (Relational Talent Database)
-* **Infrastructure:** AWS Lambda (for scalable video processing)
+## 📊 Business & Strategy
+To understand our market opportunity, scalability plan, and revenue streams (B2C/B2B), please review our official documentation:
 
-## 🏗️ Project Structure (Roadmap)
-1. **/research:** Jupyter notebooks for movement analysis (Vertical Jump, Spike Speed).
-2. **/api:** FastAPI endpoints for mobile upload and data retrieval.
-3. **/certification:** The logic for the "Blue Check" validation.
+👉 **[Download PlayWise AI Executive Pitch Deck (PDF)](./PlayWise_AI_Executive_Pitch_2026.pdf)**
+
+## 🛠️ Technical Roadmap (MVP)
+* **Computer Vision Module:** Pose estimation for volleyball-specific movements (MediaPipe/OpenCV).
+* **Data Validation Engine:** Automated extraction of vertical jump, spike speed, and reaction time.
+* **Marketplace API:** B2B dashboard for scouts and brands to filter talent by real, certified performance.
 
 ## 🤝 Join the Core Team
-We are currently looking for a **CTO / Lead AI Engineer** to lead the development. 
-Check our [Project Board] or contact the founder.
+We are currently in the **Seed Phase** and looking for a **CTO / Lead AI Engineer** to lead the technical architecture. If you are passionate about Sports-Tech and Python, let's build the future of scouting together.
+
+---
+*Created by Emma Falcone - Founder @PlayWise-AI*
