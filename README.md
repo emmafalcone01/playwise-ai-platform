@@ -10,7 +10,7 @@ PlayWise AI is an AI-driven infrastructure designed to certify athletic performa
 ## 📊 Business & Strategy
 To understand our market opportunity, scalability plan, and revenue streams (B2C/B2B), please review our official documentation:
 
-👉 **[Guarda il Pitch Deck di PlayWise AI][(https://github.com/emmafalcone01/playwise-ai-platform/commit/af670af1c038c350e716fff7fb4f49f4764d3f70)]**
+👉 **[Guarda il Pitch Deck di PlayWise AI](https://github.com/emmafalcone01/playwise-ai-platform/blob/main/PLAYWISE%20AI%20SPORT.pdf)**
 
 ## 🛠️ Technical Roadmap (MVP)
 * **Computer Vision Module:** Pose estimation for volleyball-specific movements (MediaPipe/OpenCV).
